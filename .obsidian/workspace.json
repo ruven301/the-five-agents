@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "8505a174d3005219",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1bb4a44a8ccb08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc6f463c9940843c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee1f720d53baa91a",
+    "type": "split",
+    "children": [
+      {
+        "id": "35977b15b7c77fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbef564fbea23a0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b70886e6dc13eb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e47c516ee059b61a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2e80dc4e77c3a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "be18d8b98a6d4841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9457821b458dd9b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8a325b6b9f44cebb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "66098b73403913d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9fb6e0c66ff832f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9773209c2d6a4d30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bc6f463c9940843c",
+  "lastOpenFiles": [
+    "vault/Content Briefs/_index.md",
+    "vault/Content Briefs/world-cup-2026-article.md",
+    "vault/Content Briefs",
+    "Output/2026-06-02-world-cup-2026-kickoff.md.tmp.11104.f0dfa71e167a",
+    "yuval/outputs/2026-06-02-world-cup-2026-kickoff-3.png",
+    "resp_3.json",
+    "payload_3.json",
+    "yuval/outputs/2026-06-02-world-cup-2026-kickoff-2.png",
+    "yuval/outputs/2026-06-02-world-cup-2026-kickoff-1.png",
+    "resp_2.json",
+    "resp_1.json",
+    "yuval/outputs/2026-06-02-world-cup-2026-kickoff-3.txt",
+    "yuval/outputs/2026-06-02-world-cup-2026-kickoff-2.txt",
+    "yuval/outputs/2026-06-02-world-cup-2026-kickoff-1.txt",
+    "Output/2026-06-02-world-cup-2026-kickoff.html",
+    "Output/2026-06-02-world-cup-2026-kickoff.md",
+    "Content/2026-06-02-world-cup-2026-kickoff.md",
+    "vault/Meeting Notes/project-documentation-vault.md",
+    "vault/Meeting Notes/_index.md",
+    "vault/_index.md",
+    "vault/Skills/_index.md",
+    "vault/Yuval/_index.md",
+    "vault/Yael/_index.md",
+    "vault/Chen/_index.md",
+    "vault/Reuven/_index.md",
+    "vault/Skills/skill-obsidian-bases.md",
+    "vault/Skills/skill-obsidian-markdown.md",
+    "vault/Skills/skill-obsidian-vault-workflow.md",
+    "vault/Skills/skill-gpt-image-gen.md",
+    "vault/Yuval/puss-in-boots-prompt.md",
+    "vault/Yuval/yuval-gen-script.md",
+    "vault/Yuval/yuval-outputs.md",
+    "vault/Yuval/yuval-reference.md",
+    "vault/Yuval/yuval-agent.md",
+    "vault/Yael/output-dir.md",
+    "vault/Yael/yael-reference.md",
+    "vault/Yael/yael-style-guide.md",
+    "vault/Yael/yael-agent.md",
+    "vault/Chen/content-crm.md"
+  ]
+}
